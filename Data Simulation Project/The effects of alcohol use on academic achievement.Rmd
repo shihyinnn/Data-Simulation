@@ -2,7 +2,9 @@
 title: "Data Simulation Project"
 author: "Shih Yin Chen"
 date: "May 9, 2016"
-output: pdf_document
+output: 
+    md_document:
+        variant: markdown_github
 ---
 
 #Reference article
