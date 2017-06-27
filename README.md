@@ -455,7 +455,7 @@ female_tree
 rpart.plot(female_tree, extra = 1)
 ```
 
-![](The_effects_of_alcohol_use_on_academic_achievement_files/figure-markdown_github/unnamed-chunk-25-1.png)
+![](Data Simulation Project/The_effects_of_alcohol_use_on_academic_achievement_files/figure-markdown_github/unnamed-chunk-25-1.png)
 
 Random Forest
 -------------
