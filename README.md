@@ -153,19 +153,19 @@ Plots
 -   The histogram of GPA by gender shows that the GPA of female is higher than the GPA of male.
 -   The histogram of "average number of drinks consumed per month" by gender shows that male consumed more drinks than female.
 
-![](The_effects_of_alcohol_use_on_academic_achievement_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![](Data-Simulation-Project/The_effects_of_alcohol_use_on_academic_achievement_files/figure-markdown_github/unnamed-chunk-4-1.png)
 
 -   The histogram of "average number of days per month alcohol is consumed" shows that students in singel-parant families did not consume more alcohol than students in normal families.
 
-![](The_effects_of_alcohol_use_on_academic_achievement_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![](Data-Simulation-Project/The_effects_of_alcohol_use_on_academic_achievement_files/figure-markdown_github/unnamed-chunk-5-1.png)
 
 -   The scatter plot of "average number of drinks consumed per month" and "hour employed" does not show any trend.
 
-![](The_effects_of_alcohol_use_on_academic_achievement_files/figure-markdown_github/unnamed-chunk-6-1.png)
+![](Data-Simulation-Project/The_effects_of_alcohol_use_on_academic_achievement_files/figure-markdown_github/unnamed-chunk-6-1.png)
 
 -   The boxplot of "average number of drinks consumed per month" by race does not show a difference among different races.
 
-![](The_effects_of_alcohol_use_on_academic_achievement_files/figure-markdown_github/unnamed-chunk-7-1.png)
+![](Data-Simulation-Project/The_effects_of_alcohol_use_on_academic_achievement_files/figure-markdown_github/unnamed-chunk-7-1.png)
 
 Correlations
 ------------
@@ -433,7 +433,7 @@ male_tree
 rpart.plot(male_tree, extra = 1)
 ```
 
-![](The_effects_of_alcohol_use_on_academic_achievement_files/figure-markdown_github/unnamed-chunk-24-1.png)
+![](Data-Simulation-Project/The_effects_of_alcohol_use_on_academic_achievement_files/figure-markdown_github/unnamed-chunk-24-1.png)
 
 -   Female Nothing can use to build a decision tree.
 
@@ -455,7 +455,7 @@ female_tree
 rpart.plot(female_tree, extra = 1)
 ```
 
-![](Data\ Simulation\ Project/The_effects_of_alcohol_use_on_academic_achievement_files/figure-markdown_github/unnamed-chunk-25-1.png)
+![](Data-Simulation-Project/The_effects_of_alcohol_use_on_academic_achievement_files/figure-markdown_github/unnamed-chunk-25-1.png)
 
 Random Forest
 -------------
